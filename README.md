@@ -2,16 +2,20 @@
 
 #### IEEE Transactions on Multimedia (Early Access), 2026  [📄 Paper](https://ieeexplore.ieee.org/document/11329462) · [📑 BibTeX](assets/3DSGG-compression_bib.bib)
 
-<a href="https://scholar.google.co.kr/citations?user=Lq8vO8EAAAAJ&hl=ko">Hojun Song*</a>,
-<a href="https://scholar.google.co.kr/citations?user=m-NwAdUAAAAJ&hl=ko&oi=sra">Chae-yeong Song*</a>,
-<a href="https://scholar.google.co.kr/citations?user=nGogINkAAAAJ&hl=ko&oi=sra">Dong-hun Lee</a>,
-<a href="https://scholar.google.com/citations?view_op=list_works&hl=ko&user=zocGdPwAAAAJ">Heejung Choi</a>,
-<a href="https://scholar.google.co.kr/citations?user=-DlLMawAAAAJ&hl=ko&oi=sra">Jinwoo Jeong</a>,
-Sungjei Kim,
-and <a href="https://scholar.google.com/citations?user=ZG8REuYAAAAJ&hl=en">Sang-hyo Park</a><sup>†</sup>
+<a href="https://scholar.google.co.kr/citations?user=Lq8vO8EAAAAJ&hl=ko">⋆Hojun Song</a><sup>1</sup>,
+<a href="https://scholar.google.co.kr/citations?user=m-NwAdUAAAAJ&hl=ko&oi=sra">⋆Chae-yeong Song</a><sup>1</sup>,
+<a href="https://scholar.google.co.kr/citations?user=nGogINkAAAAJ&hl=ko&oi=sra">Dong-hun Lee</a><sup>1</sup>,
+<a href="https://scholar.google.com/citations?view_op=list_works&hl=ko&user=zocGdPwAAAAJ">Heejung Choi</a><sup>1</sup>,  
+<a href="https://scholar.google.co.kr/citations?user=-DlLMawAAAAJ&hl=ko&oi=sra">Jinwoo Jeong</a><sup>2</sup>,
+Sungjei Kim<sup>3</sup>,
+and <a href="https://scholar.google.com/citations?user=ZG8REuYAAAAJ&hl=en">†Sang-hyo Park</a><sup>1</sup>
 
-\* Equal contribution  
-<sup>†</sup> Corresponding author
+⋆ Equal contribution 
+† Corresponding author
+
+<sup>1</sup> Kyungpook National University (KNU)
+<sup>2</sup> Korea Electronics Technology Institute (KETI)
+<sup>3</sup> Korea University of Technology and Education (KOREATECH)
 
 <p align="center">
   <img src="./asset/framework.png" alt="Framework Overview" width="90%">
