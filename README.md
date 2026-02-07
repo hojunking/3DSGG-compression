@@ -1,6 +1,6 @@
 # Compression Framework for Light 3D Scene Graph Generation via Pruning-as-Search and Distillation
 
-#### IEEE Transactions on Multimedia (Early Access), 2026  [📄 Paper](https://ieeexplore.ieee.org/document/11329462) · [📑 BibTeX](assets/3DSGG-compression_bib.bib)
+#### IEEE Transactions on Multimedia (Early Access), 2026  [📄Paper](https://ieeexplore.ieee.org/document/11329462) · [📑BibTeX](assets/3DSGG-compression_bib.bib)
 
 <a href="https://hojunking.github.io/webpages/hojunsong/#">⋆Hojun Song</a><sup>1</sup>,
 <a href="https://scholar.google.co.kr/citations?user=m-NwAdUAAAAJ&hl=ko&oi=sra">⋆Chae-yeong Song</a><sup>1</sup>,
@@ -13,9 +13,9 @@ and <a href="https://scholar.google.com/citations?user=ZG8REuYAAAAJ&hl=en">†Sa
 ⋆ Equal contribution 
 † Corresponding author
 
-<sup>1</sup> Kyungpook National University (KNU)
-<sup>2</sup> Korea Electronics Technology Institute (KETI)
-<sup>3</sup> Korea University of Technology and Education (KOREATECH)
+<sup>1</sup>Kyungpook National University (KNU)
+<sup>2</sup>Korea Electronics Technology Institute (KETI)
+<sup>3</sup>Korea University of Technology and Education (KOREATECH)
 
 <p align="center">
   <img src="./asset/framework.png" alt="Framework Overview" width="90%">
@@ -44,6 +44,11 @@ If you find this work useful, please cite:
   keywords={Three-dimensional displays;Computational modeling;Accuracy;Point cloud compression;Semantics;Model compression;Electronic mail;Adaptation models;Knowledge transfer;Image coding;3D scene graph generation;graph neural networks;model compression;pruning;knowledge distillation},
   doi={10.1109/TMM.2026.3651094}}
 ```
+## Acknowledgement
+This work was supported in part by the Institute of Information and Communications Technology Planning and Evaluation (IITP) funded by the Korean government (MSIT), in part by the BK21 FOUR project funded by the Ministry of Education, and in part by the National Research Foundation of Korea (NRF).
+
+ Our work builds on the following repository: [VL-SAT](https://github.com/wz7in/CVPR2023-VLSAT)
+
 
 
 
