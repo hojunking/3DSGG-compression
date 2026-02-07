@@ -1,7 +1,6 @@
 # Compression Framework for Light 3D Scene Graph Generation via Pruning-as-Search and Distillation
 
-#### IEEE Transactions on Multimedia, 2026  
-[📄 Paper](https://ieeexplore.ieee.org/document/11329462) · [📑 BibTeX]
+#### IEEE Transactions on Multimedia (Early Access), 2026  [📄 Paper](https://ieeexplore.ieee.org/document/11329462) · [📑 BibTeX](assets/3DSGG-compression_bib.bib)
 
 <a href="https://scholar.google.co.kr/citations?user=Lq8vO8EAAAAJ&hl=ko">Hojun Song*</a>,
 <a href="https://scholar.google.co.kr/citations?user=m-NwAdUAAAAJ&hl=ko&oi=sra">Chae-yeong Song*</a>,
